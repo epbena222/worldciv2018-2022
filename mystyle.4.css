@@ -1,13 +1,12 @@
 body {
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/48/Teleidoscope_animation.gif);
-    background-position: cent
-    er;
+    background-image: url(hoi.gif);
+    background-position: center;
     background-size: cover;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: #03011a;
     margin-left: 20px;
     font: bolder;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
@@ -22,7 +21,7 @@ h2 {
 h3 {
     color: white;
     font-size: 30px;
-    text-align: center;
+    text-align: center
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 h6 {

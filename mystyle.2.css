@@ -21,7 +21,8 @@ h2 {
 h3 {
     color: white;
     font-size: 30px;
-    text-align: center
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 h6 {
     text-align: center;

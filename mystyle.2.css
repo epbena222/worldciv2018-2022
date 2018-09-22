@@ -38,19 +38,8 @@ img.center {
         }
 P1 {
     color:white;
-    font-size: 20px
-}
-p2 {
-    color: white;
     font-size: 20px;
-}
-p3 {
-    color: white;
-    font-size: 20px;
-}
-p4 {
-    text-align: center;
-    font-size: 30px
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 /* Add a black background color to the top navigation */
 .topnav {

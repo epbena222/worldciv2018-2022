@@ -7,7 +7,9 @@ body {
     background-position: center;
     background-size: cover;
 }
-
+a{
+    float: right;
+}
 h1 {
     text-align: center;
     color: white;
